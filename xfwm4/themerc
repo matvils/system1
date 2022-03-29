@@ -1,0 +1,16 @@
+active_text_color=#000000
+inactive_text_color=#000000 
+active_color_1=#000000 
+active_color_2=#000000 
+active_hilight_1 =#000000
+
+
+
+
+button_offset=-1
+button_spacing=-1
+full_width_title=false
+title_shadow_active=false
+title_shadow_inactive=false
+title_vertical_offset_active=0
+title_vertical_offset_inactive=0
